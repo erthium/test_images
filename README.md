@@ -10,4 +10,4 @@ This project is licensed under the GNU GPL-3.0 license.
 
 ## Setup
 
-The project is written in Python 3.11.6, although should work on any Python Interpreter above 3.5.x.
+The project is written in Python 3.12.6, although should work on any Python Interpreter above 3.5.x.
